@@ -1,0 +1,6 @@
+F:\AppCSharp\NevmiraGoto\NevmiraGoto\bin\Debug\NevmiraGoto.exe.config
+F:\AppCSharp\NevmiraGoto\NevmiraGoto\bin\Debug\NevmiraGoto.exe
+F:\AppCSharp\NevmiraGoto\NevmiraGoto\bin\Debug\NevmiraGoto.pdb
+F:\AppCSharp\NevmiraGoto\NevmiraGoto\obj\Debug\NevmiraGoto.csprojAssemblyReference.cache
+F:\AppCSharp\NevmiraGoto\NevmiraGoto\obj\Debug\NevmiraGoto.exe
+F:\AppCSharp\NevmiraGoto\NevmiraGoto\obj\Debug\NevmiraGoto.pdb

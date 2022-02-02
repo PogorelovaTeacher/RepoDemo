@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevmiraGoto", "NevmiraGoto\NevmiraGoto.csproj", "{40983ABD-1806-4E14-B544-5E9075AFB2C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppNevmira", "ConsoleAppNevmira\ConsoleAppNevmira.csproj", "{CA8AAF89-956A-49EC-887B-8048A4A9E759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40983ABD-1806-4E14-B544-5E9075AFB2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40983ABD-1806-4E14-B544-5E9075AFB2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40983ABD-1806-4E14-B544-5E9075AFB2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40983ABD-1806-4E14-B544-5E9075AFB2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8AAF89-956A-49EC-887B-8048A4A9E759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8AAF89-956A-49EC-887B-8048A4A9E759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8AAF89-956A-49EC-887B-8048A4A9E759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8AAF89-956A-49EC-887B-8048A4A9E759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20FDF15D-8AAA-4724-BAAD-3859252D2EAF}
+	EndGlobalSection
+EndGlobal

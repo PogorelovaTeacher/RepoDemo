@@ -1,0 +1,6 @@
+F:\AppCSharp\NevmiraGoto\ConsoleAppNevmira\bin\Debug\ConsoleAppNevmira.exe.config
+F:\AppCSharp\NevmiraGoto\ConsoleAppNevmira\bin\Debug\ConsoleAppNevmira.exe
+F:\AppCSharp\NevmiraGoto\ConsoleAppNevmira\bin\Debug\ConsoleAppNevmira.pdb
+F:\AppCSharp\NevmiraGoto\ConsoleAppNevmira\obj\Debug\ConsoleAppNevmira.csprojAssemblyReference.cache
+F:\AppCSharp\NevmiraGoto\ConsoleAppNevmira\obj\Debug\ConsoleAppNevmira.exe
+F:\AppCSharp\NevmiraGoto\ConsoleAppNevmira\obj\Debug\ConsoleAppNevmira.pdb
